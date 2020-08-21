@@ -1,0 +1,11 @@
+@import url('https://fonts.maateen.me/solaiman-lipi/font.css') ;
+
+@font-face {
+{
+font-family : 'SolaimanLipi';
+src : url("contents/fonts/SolaimanLipi.eot");
+src : url("contents/fonts/SolaimanLipi.woff") format('woff'), url("contents/fonts/SolaimanLipi.ttf") format('truetype'), url("contents/fonts/SolaimanLipi.svg#SolaimanLipiNormal") format('svg'), url("contents/fonts/SolaimanLipi.eot?#iefix") format('embedded-opentype');
+font-weight : normal;
+font-style : normal;
+}
+} 
